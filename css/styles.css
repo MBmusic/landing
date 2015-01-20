@@ -329,47 +329,44 @@ a {
 
 .bg1-c3-right button {
 	display: block;
-    position: relative;
-    text-transform: uppercase;
-    font-weight: bold;
-    text-align: center;
-    font-size: 22px;
-    text-shadow: 1px 1px 0px #000;
-    color: #fff;
-    background: #53a2c4;
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    border-bottom: 4px solid #3a7189;
-    cursor: pointer;
-    padding: 10px;
-    margin: 5px auto;
-
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+	position: relative;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	font-size: 22px;
+	text-shadow: 1px 1px 0px #000;
+	color: #fff;
+	background: #53a2c4;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 4px solid #3a7189;
+	cursor: pointer;
+	padding: 10px;
+	margin: 5px auto;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 }
 
 
 
 
 .bg1-c3-right button:active {
-    border: none;
-    bottom: -4px;
-    margin-bottom: 22px;
- 
-    -webkit-box-shadow: 0 1px 1px #3a7189;
-    -moz-box-shadow:  0 1px 1px #3a7189;
-    box-shadow:  1px 1px 0 #3a7189, inset 0 1px 1px rgba(0, 0, 0, 0.3);
+	border: none;
+	bottom: -4px;
+	margin-bottom: 22px;
+	-webkit-box-shadow: 0 1px 1px #3a7189;
+	-moz-box-shadow:  0 1px 1px #3a7189;
+	box-shadow:  1px 1px 0 #3a7189, inset 0 1px 1px rgba(0, 0, 0, 0.3);
 }
  
 .bg1-c3-right button:before,
 .bg1-c3-right button:after {
-    border: none;   
- 
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
+        border: none;   
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
 }
 
 .bg1-c3-right button:hover {
@@ -420,9 +417,9 @@ a {
 	padding: 10px 0;
 	margin: 0 auto;
 	width: 960px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
 }
 
 .games img {
@@ -456,21 +453,21 @@ a {
 	width: 776px;
 	background: url(../img/bg-form.png);
 	margin: 0 auto;	
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    padding: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        padding: 20px;
 }
 
 .landing-bg3-c2 {
 	width: 776px;
 	background: url(../img/bg-form.png);
 	margin: 0 auto;	
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    padding: 20px;
-    margin-top: 30px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        border-radius: 20px;
+        padding: 20px;
+        margin-top: 30px;
 }
 
 .bg3-c1-left {
@@ -561,47 +558,45 @@ a {
 
 .arrow2 span {
 	display: block;
-    position: relative;
-    text-transform: uppercase;
-    font-weight: bold;
-    text-align: center;
-    font-size: 28px;
-    text-shadow: 1px 1px 0px #000;
-    color: #fff;
-    background: #53a2c4;
-    border-top: 0px;
-    border-left: 0px;
-    border-right: 0px;
-    border-bottom: 4px solid #3a7189;
-    cursor: pointer;
-    padding: 14px 10px;
-    margin: 0 auto;
-    width: 500px;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
+	position: relative;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	font-size: 28px;
+	text-shadow: 1px 1px 0px #000;
+	color: #fff;
+	background: #53a2c4;
+	border-top: 0px;
+	border-left: 0px;
+	border-right: 0px;
+	border-bottom: 4px solid #3a7189;
+	cursor: pointer;
+	padding: 14px 10px;
+	margin: 0 auto;
+	width: 500px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
 }
 
 
 
 
 .arrow2 span:active {
-    border: none;
-    bottom: -4px;
-    margin-bottom: 22px;
- 
-    -webkit-box-shadow: 0 1px 1px #3a7189;
-    -moz-box-shadow:  0 1px 1px #3a7189;
-    box-shadow:  1px 1px 0 #3a7189, inset 0 1px 1px rgba(0, 0, 0, 0.3);
+	border: none;
+	bottom: -4px;
+	margin-bottom: 22px;
+	-webkit-box-shadow: 0 1px 1px #3a7189;
+	-moz-box-shadow:  0 1px 1px #3a7189;
+	box-shadow:  1px 1px 0 #3a7189, inset 0 1px 1px rgba(0, 0, 0, 0.3);
 }
  
 .arrow2 span:before,
 .arrow2 span:after {
-    border: none;   
- 
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
+	border: none;   
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
 }
 
 .arrow2 span:hover {
